@@ -61,7 +61,7 @@ Stop-gained mutation affected the BHLH domain in the SCRM2 protein is reflected 
 
 Since SCRM2 plays a key role in the regulation of stomata cell differentiation, loss of SCRM2 function due to changes in the bHLH domain could lead to absent or improper stomata formation, which would negatively affect the gas exchange and water balance of the plant. In addition, loss of part of the bHLH domain may impair the ability of SCRM2 to form heterodimers with other bHLH proteins such as SPCH and MUTE, making it difficult to activate target genes.
 
-*Figure 2. SCRM2 predicted structure (changed one on the left)*
+*Figure 2. SCRM2 predicted structure (changed one on the right)*
 
 <img width="910" alt="Снимок экрана 2024-10-19 в 20 34 03" src="https://github.com/user-attachments/assets/f0e2defe-b189-4b71-a0c5-f267533aa26d">
 
