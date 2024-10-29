@@ -34,10 +34,56 @@ Many more rearrangements of different types were found when comparing A. arenosa
 
 **Microsynteny visualization**
 
+This visualisation shows a section of a chromosome and the colours correspond to different orthologous groups. 
+
+*Figure 3. Microsynteny visualization (Cdm vs Ref small region)*
 <img width="769" alt="Снимок экрана 2024-10-27 в 00 17 54" src="https://github.com/user-attachments/assets/8fad3096-fd3e-4ba0-8b6a-8444eb02da5b">
+
+The region with gene order inversion between the reference genome and the *A. thaliana* Cdm-0 assembly was also illustrated. This inversion was also illustrated using the dotplotpreviously.
+
+*Figure 4. Microsynteny visualization of inverted region (3075 Chrom)*
+<img width="848" alt="Снимок экрана 2024-10-29 в 23 32 14" src="https://github.com/user-attachments/assets/93e3c89c-63f4-4503-a9fe-fb9756587102">
+
+Using the annotation for this 3075 reference chromosome, genes in this region were also found: 
+
+1. **Genes associated with plant development**
+   - **CYCD6;1**: Regulation of cell cycle and cell division, important for seed development.
+   - **EVE1**: Involved in the regulation of flower development.
+   - **SRF3**: Involved in plant senescence processes.
+   - **DFL2**: Associated with seed dormancy and stress response.
+   - **EMB2770**: Involved in embryonic development of seeds.
+   - **ATHM2**: Regulation of the expression of development-related genes.
+   - **MCM4**: Involved in cell division and plant growth (according to GWAS).
+
+2. **Genes related to photosynthetic processes**
+   - **PETC**: Involved in the electron transfer chain in chloroplasts, important for photosynthesis.
+
+3. **Genes responding to stress**
+   - **PP2C52**: Phosphatase involved in cell signalling and stress response.
+   - **CRK36, CRK37, CRK38, CRK39, CRK40**: Involved in responses to pathogens and stressful conditions.
+   - **APR1**: Associated with defence against pathogens.
+   - **MSRB3, MSRB4, MSRB5, MSRB6**: Involved in responses to oxidative stress.
+
+4. **Genes related to transport and membrane processes**
+   - **Tic20-IV**: Involved in transport of proteins across chloroplast membranes.
+   - **SYP123**: Associated with exocytosis and transport of proteins.
+
+5. **Metabolism related genes**
+   - **GSL05**: Involved in the synthesis of glucosinolates, which have protective functions.
+   - **FUR1**: Involved in the metabolism of purines.
+
+6. **Genes related to the regulation of transcription**
+   - **WRKY42**: Transcription factor involved in the regulation of responses to stress and pathogens.
+   - **MYB74**: A transcription factor involved in the regulation of various physiological processes.
+
+7. **Genes related to cell cycle and division**
+   - **CPK21, CPK22, CPK23, CPK27, CPK31**: Calcium-dependent protein kinases regulating cell cycle and stress response.
+
+These groups of genes show a diversity of functions related to plant development, photosynthetic processes and responses to stress conditions.
 
 
 ## **Discussion**
 
-The results of the analysis showed the presence of significant genomic rearrangements between Cdm-0 and A. arenosa assemblies compared to TAIR10.1. The detected inversions and deletions in the A. arenosa genome, as well as structural differences between TAIR10.1 and Cdm-0 ecotypes, may be a consequence of adaptation to specific environmental conditions. These differences may influence functional properties of genes, such as regulation of stress responses or metabolic processes, which are important for survival and reproduction of these plants under different conditions.
+The results of the analysis showed the presence of significant genomic rearrangements between A. arenosa assembly compared to TAIR10.1, such as translocations and inversions as well as regiones witnessed both. In comparison the only significant diference observed between reference and Cdm-0 was inversion in 3075ref-1469cdm chromosomes, detected with both methods: synteny visualisation and dotplot. The detected inversions and translocations in the A. arenosa genome, as well as structural differences between TAIR10.1 and Cdm-0 ecotypes, may be a consequence of adaptation to specific environmental conditions. 
+
 
