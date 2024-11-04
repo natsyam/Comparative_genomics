@@ -11,7 +11,7 @@ The main goals of this analysis were to:
 
 ---
 
-### Comparative Genome Analysis of *Arabidopsis thaliana* and *Arabidopsis arenosa* Using JupiterPlot
+### Comparative genome analysis using JupiterPlot
 
 JupiterPlot was utilized to visualize chromosomal rearrangements between the reference genomes of *A. thaliana* and *A. arenosa*. JupiterPlot helps to identify large-scale structural changes, such as inversions and translocations, by linking homologous regions between chromosomes (figure 1).
 
@@ -27,7 +27,7 @@ These rearrangements may play a role in the ecological differences observed betw
 
 ---
 
-### Analysis of Repeat Landscape Using Kimura Plots
+### Analysis of Repeat Landscape using Kimura Plots
 
 RepeatMasker and RepeatModeler were employed to mask and classify repetitive sequences in *A. thaliana* ecotype Kyr-1 (figure 2) and *A. arenosa* (figure 3). Kimura plots allow visualization of the repeat landscapes, showing the diversity and age distribution of repeat elements based on substitution levels. The Kimura plots display various repeat classes, with substitution values indicating evolutionary age. Lower values (left side of the plot) represent recent insertions, while higher values (right side) indicate older, more diverged repeats.
 
@@ -41,7 +41,7 @@ A distinctive feature that is immediately apparent is the peak of repeats of unk
 
 ---
 
-### Visualization of GC-content, Genes and Repeat Density Using Circos
+### Visualization of GC-content, Genes and Repeat Density using Circos
 
 To gain a holistic view of the genome organization, Circos tool was used to visualize the distribution of GC-content, genes, and repeat density in *A. arenosa*.
 
