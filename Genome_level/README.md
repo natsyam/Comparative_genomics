@@ -68,3 +68,78 @@ Analysis of the repeat landscape using Kimura plots also shows that both species
 
 Visualization of the Circos plot for *A. arenosa* provides additional insight into the structural organization of the genome, highlighting correlations between gene density, GC content, and repeat density. The observed gene-poor regions with low GC content likely correspond to centromeric regions that exhibit particular compositional characteristics. These centromeric regions are also marked by a lower repeat density in *A. arenosa*, consistent with the presence of specialized repeats rather than abundant transposable elements.
 
+---
+### Supplementary information
+
+
+_Table 1. Repeats presence in *A. thaliana* Kyr-1 ecotype_
+
+| Category             | Number of Elements | Length Occupied (bp) | Percentage of Sequence |
+|----------------------|--------------------|-----------------------|------------------------|
+| **Retroelements**    | 7472               | 6,795,252            | 4.97%                  |
+| SINEs                | 172                | 28,405               | 0.02%                  |
+| Penelope             | 0                  | 0                    | 0.00%                  |
+| LINEs                | 2204               | 1,177,783            | 0.86%                  |
+| CRE/SLACS            | 0                  | 0                    | 0.00%                  |
+| L2/CR1/Rex           | 0                  | 0                    | 0.00%                  |
+| R1/LOA/Jockey        | 0                  | 0                    | 0.00%                  |
+| R2/R4/NeSL           | 0                  | 0                    | 0.00%                  |
+| RTE/Bov-B            | 0                  | 0                    | 0.00%                  |
+| L1/CIN4              | 2204               | 1,177,783            | 0.86%                  |
+| LTR elements         | 5096               | 5,589,064            | 4.09%                  |
+| BEL/Pao              | 0                  | 0                    | 0.00%                  |
+| Ty1/Copia            | 1282               | 973,841              | 0.71%                  |
+| Gypsy/DIRS1          | 3724               | 4,608,320            | 3.37%                  |
+| Retroviral           | 90                 | 6,903                | 0.01%                  |
+| **DNA transposons**  | 3361               | 2,248,334            | 1.64%                  |
+| hobo-Activator       | 138                | 80,544               | 0.06%                  |
+| Tc1-IS630-Pogo       | 250                | 46,580               | 0.03%                  |
+| En-Spm               | 0                  | 0                    | 0.00%                  |
+| MULE-MuDR            | 1944               | 1,369,920            | 1.00%                  |
+| PiggyBac             | 0                  | 0                    | 0.00%                  |
+| Tourist/Harbinger    | 166                | 52,831               | 0.04%                  |
+| Other (Mirage, P-element, Transib) | 0  | 0                    | 0.00%                  |
+| **Rolling-circles**  | 1573               | 736,793              | 0.54%                  |
+| **Unclassified**     | 34,696             | 22,539,195           | 16.49%                 |
+| **Total interspersed repeats** | -       | 31,582,781           | 23.10%                 |
+| Small RNA            | 358                | 789,478              | 0.58%                  |
+| Satellites           | 0                  | 0                    | 0.00%                  |
+| Simple repeats       | 34,710             | 1,397,676            | 1.02%                  |
+| Low complexity       | 8588               | 413,831              | 0.30%                  |
+
+---
+
+_Table 2. Repeats presence in *A. arenosa*_
+
+| Category             | Number of Elements | Length Occupied (bp) | Percentage of Sequence |
+|----------------------|--------------------|-----------------------|------------------------|
+| **Retroelements**    | 9762               | 8,103,013            | 5.41%                  |
+| SINEs                | 34                 | 2,639                | 0.00%                  |
+| Penelope             | 0                  | 0                    | 0.00%                  |
+| LINEs                | 5073               | 2,753,256            | 1.84%                  |
+| CRE/SLACS            | 0                  | 0                    | 0.00%                  |
+| L2/CR1/Rex           | 0                  | 0                    | 0.00%                  |
+| R1/LOA/Jockey        | 0                  | 0                    | 0.00%                  |
+| R2/R4/NeSL           | 0                  | 0                    | 0.00%                  |
+| RTE/Bov-B            | 0                  | 0                    | 0.00%                  |
+| L1/CIN4              | 5073               | 2,753,256            | 1.84%                  |
+| LTR elements         | 4655               | 5,347,118            | 3.57%                  |
+| BEL/Pao              | 29                 | 17,477               | 0.01%                  |
+| Ty1/Copia            | 2661               | 2,161,773            | 1.44%                  |
+| Gypsy/DIRS1          | 1965               | 3,167,868            | 2.12%                  |
+| Retroviral           | 0                  | 0                    | 0.00%                  |
+| **DNA transposons**  | 2196               | 1,144,507            | 0.76%                  |
+| hobo-Activator       | 480                | 185,785              | 0.12%                  |
+| Tc1-IS630-Pogo       | 0                  | 0                    | 0.00%                  |
+| En-Spm               | 0                  | 0                    | 0.00%                  |
+| MULE-MuDR            | 964                | 588,404              | 0.39%                  |
+| PiggyBac             | 0                  | 0                    | 0.00%                  |
+| Tourist/Harbinger    | 430                | 199,500              | 0.13%                  |
+| Other (Mirage, P-element, Transib) | 0  | 0                    | 0.00%                  |
+| **Rolling-circles**  | 3150               | 1,095,400            | 0.73%                  |
+| **Unclassified**     | 56,650             | 18,172,927           | 12.14%                 |
+| **Total interspersed repeats** | -       | 27,420,447           | 18.32%                 |
+| Small RNA            | 315                | 164,743              | 0.11%                  |
+| Satellites           | 67                 | 36,808               | 0.02%                  |
+| Simple repeats       | 45,457             | 1,806,479            | 1.21%                  |
+| Low complexity       | 10,792             | 528,455              | 0.35%                  |
